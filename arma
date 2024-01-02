@@ -1,0 +1,4 @@
+[ARMA]
+title=ARMA
+description=Arma Dedicated Server Ruleset
+ports=2302|2303|2304|2306
